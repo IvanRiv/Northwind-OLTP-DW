@@ -28,9 +28,9 @@ El dominio elegido es **Ventas y Distribución**. Algunas reglas de negocio impl
 
 ## 4. Estructura del Repositorio
 Siguiendo las buenas prácticas, el repositorio está organizado de la siguiente manera:
-*   `/Scripts_SQL`: Scripts de creación de esquemas y carga de datos (mínimo 20 registros por tabla).
-*   `/Proyecto_Visual_Studio`: Solución de Visual Studio con los proyectos de base de datos.
-*   `/DACPACs`: Archivos `.dacpac` listos para el despliegue técnico.
+*   `/Scripts`: Scripts de creación de esquemas y carga de datos (mínimo 20 registros por tabla).
+*   `/Northwind`: Solución de Visual Studio con los proyectos de base de datos.
+*   `/dacpac`: Archivos `.dacpac` listos para el despliegue técnico.
 
 ## 5. Instrucciones de Despliegue
 Para replicar este entorno:
