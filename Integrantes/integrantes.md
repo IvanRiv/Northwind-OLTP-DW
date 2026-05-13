@@ -1,2 +1,0 @@
-Ivan Sergio Rivera Vidaurre
-
