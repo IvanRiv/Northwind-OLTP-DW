@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[CustomerCustomerDemo] (
+    [CustomerID]     NCHAR (5)  NOT NULL,
+    [CustomerTypeID] NCHAR (10) NOT NULL,
+    [rowversion]     ROWVERSION NOT NULL
+);
+

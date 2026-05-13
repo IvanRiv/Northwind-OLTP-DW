@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Northwind_DW\bin\Release\Northwind_DW.dacpac
+C:\Users\LENOVO\source\repos\Northwind_DW\bin\Release\Northwind_DW.dll
+C:\Users\LENOVO\source\repos\Northwind_DW\bin\Release\Northwind_DW.pdb
+C:\Users\LENOVO\source\repos\Northwind_DW\obj\Release\Northwind_DW.sqlproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Northwind_DW\obj\Release\Model.xml
+C:\Users\LENOVO\source\repos\Northwind_DW\obj\Release\refactor.xml
+C:\Users\LENOVO\source\repos\Northwind_DW\obj\Release\postdeploy.sql
+C:\Users\LENOVO\source\repos\Northwind_DW\obj\Release\predeploy.sql
+C:\Users\LENOVO\source\repos\Northwind_DW\obj\Release\Northwind_DW.dll
+C:\Users\LENOVO\source\repos\Northwind_DW\obj\Release\Northwind_DW.pdb
